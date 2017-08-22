@@ -1,0 +1,21 @@
+SMAP
+registration_jsp.java
+JSP
+*S JSP
+*F
++ 0 registration.jsp
+registration.jsp
+*L
+4,2:47
+7,9:50
+15:59
+20,14:60
+34:74,3
+35,3:77
+38:80,3
+39:83
+40,2:84,3
+42,3:90
+45:93,3
+46,4:96
+*E
